@@ -1,0 +1,19 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+
+blockquote{
+    float: right;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    width: 200px;
+    padding: 10px;
+    margin: 10px;
+}

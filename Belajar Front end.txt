@@ -1,0 +1,76 @@
+ Belajar Front End
+HTML
+	Basic HTML
+	Semantic Elements
+	Form Validation
+	SVG dan Canvas
+	Information Architecture
+	Accessibility
+	SEO
+CSS
+	Basic CSS
+	CSS Layouting
+	Filter, Transisi dan Animasi
+	Responsif Design
+	Modern CSS
+	CSS Architecture
+Java Script
+	Basic Concepts sintac JS
+	DOM (Document Object Model)
+	ES6 + Modular Javascript
+	Asynchronous Javascript
+	Fetch API
+
+- Bikin Company Profile
+- Bikin Project To Do List
+
+Belajar Version Control System
+Git
+Github
+Gitlab
+
+CSS Pre Processor
+Sass
+
+CSS Framework
+Bootstrap
+taillwind
+
+Web Components
+Custome Element
+Shadow DOM
+HTML Tamplatem
+
+Belajar Node.Js
+
+Build Tools dan Tasks Runner
+
+Fornt End Framework/Library
+
+State Management
+
+Application Programming Interface
+- JSON
+- GraphQL
+
+Website Deployment - biar bisa dilihat
+Github
+Vercel
+
+Testing Tools
+- Jest
+- Mocha
+- Jasmine
+- Selenium
+
+Static Site Generators
+Next.js
+Nust js
+Gatsby
+
+Progresive Web Apps
+- Web Storage
+- Web Socket
+- Service Worker
+
+Web Assembly

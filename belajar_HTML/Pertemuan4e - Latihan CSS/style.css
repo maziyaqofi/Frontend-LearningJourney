@@ -1,0 +1,47 @@
+/* universal selector */
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* Type Selector */
+h1 {
+    font-size: 30px;
+}
+
+/* Class Selector */
+.artikel {
+    font-size: 20px;
+}
+
+.credit {
+    font-size: 12px;
+}
+
+.penulis {
+    color: crimson;
+}
+
+.tanggal {
+    color: darkolivegreen;
+}
+
+/* ID Selector */
+#artikel_1{
+    color: darkgoldenrod;
+}
+
+/* Child Selector */
+p>span {
+    color: blueviolet;
+}
+
+/* First Child */
+h3 + p {
+    color: gray;
+    font-size: 15px;
+}
+
+/* All Child */
+h1~p {
+    text-align: justify;
+}

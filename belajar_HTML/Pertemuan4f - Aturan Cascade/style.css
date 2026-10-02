@@ -1,0 +1,35 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Aturan terakhir */
+i {
+    color: greenyellow;
+}
+
+i {
+    color: blue;  /* yang di ambil ini, yang terakhir*/
+}
+
+/* Spesifik */
+
+b {
+    color: turquoise; /* Level 1 */
+}
+
+p b {
+    color: burlywood; /* Level 2 */
+}
+
+p b {
+    color: tomato !important; /* Level 3 */
+}
+
+/* Studi kasus */
+p {
+    font-size: 100%;
+}
+
+p#pendahuluan {
+    font-size: 75%;
+}
